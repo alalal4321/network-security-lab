@@ -1,6 +1,4 @@
 # Network Security Lab: ARP Spoofing 기반 MITM 분석
-**작성자:** 장민혁
-
 본 레포지토리는 로컬 네트워크(LAN) 환경에서 발생하는 ARP(Address Resolution Protocol)의 구조적 취약점을 악용하여, 통신 패킷을 중간에서 가로채는 ARP Cache Poisoning 및 MITM(Man-in-the-Middle) 공격의 원리를 입증하고 분석한 포트폴리오입니다.
 
 ## 1. 실습 목적
